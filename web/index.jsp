@@ -13,9 +13,9 @@
     </head>
     <body>
         <h1>Servlets</h1>
-        <h2><a>Nome Completo</a></h2>
-        <h2><a>Data/Hora do servidor</a></h2>
-        <h2><a>Saudação</a></h2>
-        <h2><a>Subtração</a></h2>
+        <h2><a href="nomecompleto.html">Nome Completo</a></h2>
+        <h2><a href="server-date.html">Data/Hora do servidor</a></h2>
+        <h2><a href="greeting.html">Saudação</a></h2>
+        <h2><a href="subtraction.html">Subtração</a></h2>
     </body>
 </html>
